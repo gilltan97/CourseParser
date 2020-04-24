@@ -5,7 +5,7 @@ Python script scrapes and parses the course information of every course offered 
 ---
 Below is the course information of course ```AER373H1S``` outputted by the script in a JSON file. 
 
-```
+```JSON
 ...
 {
             "breadth requirements":null,
