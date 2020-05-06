@@ -2,6 +2,27 @@
 
 Python script scrapes and parses the course information of every course offered at all three campuses of the University of Toronto.
 
+## Getting Started 
+1. Create a venv 
+```bash 
+> python3 -m venv ./env 
+```
+
+2. Activate the venv 
+```bash 
+> source ./env/bin/activate 
+```
+
+3. Install the required packages 
+```bash 
+> pip3 install requests 
+> pip3 install beautifulsoup4
+```
+4. Run the scraper 
+```bash 
+> python3 Main.py
+```
+
 #
 Below is the course information of course ```AER373H1S``` outputted by the script in a JSON file. 
 
