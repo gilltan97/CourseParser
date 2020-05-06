@@ -15,12 +15,12 @@ Python script scrapes and parses the course information of every course offered 
 
 3. Install the required packages 
 ```bash 
-> pip3 install requests 
-> pip3 install beautifulsoup4
+(env) > pip3 install requests 
+(env) > pip3 install beautifulsoup4
 ```
 4. Run the scraper 
 ```bash 
-> python3 Main.py
+(env) > python3 Main.py
 ```
 
 #
